@@ -1,6 +1,7 @@
 # 30DaysOfJs
 
 [task1](https://github.com/estharossa/30DaysOfJs/blob/main/task1.js)
+
 [task2](https://github.com/estharossa/30DaysOfJs/blob/main/task2.js)
 [task3](https://github.com/estharossa/30DaysOfJs/blob/main/task3.js)
 [task4](https://github.com/estharossa/30DaysOfJs/blob/main/task4.js)
