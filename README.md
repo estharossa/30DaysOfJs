@@ -35,5 +35,7 @@
 [task17](https://github.com/estharossa/30DaysOfJs/blob/main/task17.js)
 
 [task18](https://github.com/estharossa/30DaysOfJs/blob/main/task18.js)
+
 [task19](https://github.com/estharossa/30DaysOfJs/blob/main/task19.js)
+
 [task20](https://github.com/estharossa/30DaysOfJs/blob/main/task20.js)
